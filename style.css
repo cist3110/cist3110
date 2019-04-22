@@ -1191,11 +1191,11 @@ body {
 /* Text widget */
 .widget_text {
 	word-wrap: break-word;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 
 .widget_text .textwidget {
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 }
 
 .tg-one-half .widget_text .widget-title {
